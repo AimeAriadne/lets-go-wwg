@@ -6,7 +6,7 @@ import (
 
 // declare duas slices de int e preencha 6 posições de cada uma.
 // junte as slices formando uma terceira slide.
-// print as três slices.
+// print as três slices
 
 func main() {
 	slice1 := []int{1, 2, 3, 4, 5, 6}

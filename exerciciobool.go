@@ -11,7 +11,7 @@ func main() {
 	b := 150 < 120 || 120 > 100
 	c := 5 != 5
 	d := 50 != 100
-	e := 90 > 10 && 50 > 10
+	e := 90 > 10 && 50 > 15
 
 	fmt.Printf("O tipo de a é: %T e seu valor é %v\n", a, a)
 	fmt.Printf("O tipo de b é: %T e seu valor é %v\n", b, b)

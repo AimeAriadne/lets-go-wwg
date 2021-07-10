@@ -6,7 +6,7 @@ import (
 
 // crie um map chamado ano onde as chaves(key) são os números dos meses e o valor é o nome do mês.
 // printe os meses 1 e 12.
-// printe o tamanho do map ano.
+// printe o tamanho do map ano
 
 func main() {
 	mesesDoAno := make(map[int]string)

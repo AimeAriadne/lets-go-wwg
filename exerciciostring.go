@@ -5,7 +5,7 @@ import (
 )
 
 // declare duas variáveis do tipo string, uma vai receber seu nome a outra vai receber sua cor favorita.
-// printe na tela uma frase utilizando os dois valores.
+// printe na tela uma frase utilizando os dois valores
 func main() {
 	name := "Aimê"
 	favoriteColor := "black"

@@ -6,7 +6,7 @@ import (
 
 // crie uma slice de tamanho 12 usando a função make() e atribua os meses do ano a cada um dos elemntos individualmente.
 // printe na tela essa slice mostrando todos os seus elementos.
-// printe também uma fatia dessa slice do índice 2 ao 8.
+// printe também uma fatia dessa slice do índice 2 ao 8
 
 func main() {
 	meses := make([]string, 12)
